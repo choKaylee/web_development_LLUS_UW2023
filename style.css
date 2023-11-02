@@ -1,0 +1,11 @@
+h1 {
+    color: rgba(226, 94, 226, 0.715);
+}
+img{
+    object-fit: cover;
+    width: 300px;
+}
+p{
+    font-size: 1rem;
+    font-weight: bold
+}
