@@ -1,5 +1,8 @@
 h1 {
-    color: rgba(226, 94, 226, 0.715);
+    color: rgba(166, 33, 227, 0.715);
+    background-color: rgb(246, 210, 244);
+    width: 450px;
+    font-family: 'Playpen Sans', cursive;
 }
 img{
     object-fit: cover;
@@ -9,3 +12,15 @@ p{
     font-size: 1rem;
     font-weight: bold
 }
+a{
+    color: black;
+}
+div.container, div.main{
+    float: left;
+    font-family: 'Playpen Sans', cursive;
+}
+div.main{
+    position: relative;
+    left: 50px;
+}
+
