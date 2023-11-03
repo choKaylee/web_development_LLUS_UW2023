@@ -1,8 +1,9 @@
 h1 {
     color: rgba(166, 33, 227, 0.715);
     background-color: rgb(246, 210, 244);
-    width: 450px;
+    width: 380px;
     font-family: 'Playpen Sans', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 img{
     object-fit: cover;
@@ -18,6 +19,7 @@ a{
 div.container, div.main{
     float: left;
     font-family: 'Playpen Sans', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 div.main{
     position: relative;
